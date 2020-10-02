@@ -30,7 +30,7 @@ The information you enter in the `data.json` file should be formatted as follows
 ## Links
 
 * [Live Link](https://leevaughn.github.io/treehouse-hacktoberfesters/)
-* [Repository](https://github.com/LeeVaughn/sql-library-manager)
+* [Repository](https://github.com/LeeVaughn/treehouse-hacktoberfesters)
 
 ## Author
 
