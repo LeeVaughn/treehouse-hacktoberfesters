@@ -1,6 +1,6 @@
 # Treehouse Hacker Tracker 2020
 
-The Treehouse Hacker Tracker 2020 is a resource that lists Treehouse students who are participating in Hacktoberfest 2020. All Treehouse students are welcome to add their data to the project so that they can be listed.
+The Treehouse Hacker Tracker 2020 is a resource that lists Treehouse students who are participating in [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/). All Treehouse students taking part in Hacktoberfest are welcome to add their data to the project so that they can be listed.
 
 ## Motivation
 
