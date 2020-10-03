@@ -1,10 +1,10 @@
 "use strict";
 
 /**
- Show page function - shows the selected page of students
- @param list - List of students to be paginated
- @param page - Page number to be shown
-*/
+ * Show page function - shows the selected page of students
+ * @param {object} list - List of students to be paginated
+ * @param {number} page - Page number to be shown
+ */
 function showPage(list, page) {
    const startIndex = (page * 9) - 9
    const endIndex = page * 9
@@ -35,9 +35,10 @@ function showPage(list, page) {
 
 /**
  Append page links function - Create and append pagination links for list
- @param list - List of students to be paginated
+ @param {object} list - List of students to be paginated
 */
 function addPagination(list) {
+   console.log(typeof list)
    const numOfPages = Math.ceil(list.length / 9)
    const linkList = document.querySelector(".link-list")
 
