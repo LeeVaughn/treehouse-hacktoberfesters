@@ -8,7 +8,7 @@ This project was created to give Treehouse students an opportunity to contribute
 
 ## Contributing
 
-* Fork the repository.
+* [Fork](https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/fork-a-repo) the repository.
 * Visit `https://teamtreehouse.com/<Treehouse profile name>.json` to access your student data.
 * Edit the `data.json` file in the project to include your information. Please keep the array of objects in alphabetical order based on first name.
 * Save your changes and push them to your forked repo.
@@ -35,3 +35,7 @@ The information you enter in the `data.json` file should be formatted as follows
 ## Author
 
 [Daniel Lee Vaughn](https://github.com/LeeVaughn)
+
+## License
+
+This project is licensed under the terms of the MIT license.
