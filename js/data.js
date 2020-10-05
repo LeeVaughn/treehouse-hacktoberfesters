@@ -17,6 +17,13 @@ const data = [
     points: 27986,
   },
   {
+    url: "https://teamtreehouse.com/laureneggers",
+    name: "Lauren Eggers",
+    profile_name: "laureneggers",
+    gravatar_url: "https://uploads.teamtreehouse.com/production/profile-photos/10759805/avatar_0.jpg",
+    points: 17379
+  },
+  {
     url: 'https://teamtreehouse.com/dlv.json',
     name: 'Lee Vaughn',
     profile_name: 'dlv',
@@ -30,12 +37,5 @@ const data = [
     profile_name: "robertmanolis",
     gravatar_url: "https://uploads.teamtreehouse.com/production/profile-photos/1167622/avatar_me.jpg",
     points: 26839
-  },
-  {
-    url: "https://teamtreehouse.com/laureneggers",
-    name: "Lauren Eggers",
-    profile_name: "laureneggers",
-    gravatar_url: "https://uploads.teamtreehouse.com/production/profile-photos/10759805/avatar_0.jpg",
-    points: 17379
   }
 ];
