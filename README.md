@@ -20,11 +20,11 @@ The information you enter in the `data.js` file should be formatted as follows:
 
 ```javascript
 {
-	'url': 'https://teamtreehouse.com/dlv.json',
-	'name': 'Lee Vaughn',
-	'profile_name': 'dlv',
-	'gravatar_url': 'https://uploads.teamtreehouse.com/production/profile-photos/9205552/avatar_lee.jpg',
-	'points': 33766
+	url: 'https://teamtreehouse.com/dlv.json',
+	name: 'Lee Vaughn',
+	profile_name: 'dlv',
+	gravatar_url: 'https://uploads.teamtreehouse.com/production/profile-photos/9205552/avatar_lee.jpg',
+	points: 33766
 }
 ```
 
