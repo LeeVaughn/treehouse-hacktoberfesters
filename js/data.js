@@ -24,4 +24,11 @@ const data = [
       'https://uploads.teamtreehouse.com/production/profile-photos/9205552/avatar_lee.jpg',
     points: 33766,
   },
+  {
+    url: "https://teamtreehouse.com/robertmanolis",
+    name: "Robert Manolis",
+    profile_name: "robertmanolis",
+    gravatar_url: "https://uploads.teamtreehouse.com/production/profile-photos/1167622/avatar_me.jpg",
+    points: 26839
+  }
 ];
