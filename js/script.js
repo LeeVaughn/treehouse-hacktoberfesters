@@ -7,7 +7,7 @@ const alphaList = data.sort((a, b) => {
    if(userA < userB) {
       return - 1;
    } else if (userA > userB) {
-      return 1
+      return 1;
    } else {
       return 0;
    }
@@ -18,7 +18,6 @@ const alphaList = data.sort((a, b) => {
  * @param {object} list - List of students to be paginated
  * @param {number} page - Page number to be shown
  */
-
 function showPage(list, page) {
    const startIndex = (page * 9) - 9
    const endIndex = page * 9
@@ -52,7 +51,6 @@ function showPage(list, page) {
  @param {object} list - List of students to be paginated
 */
 function addPagination(list) {
-   console.log(typeof list)
    const numOfPages = Math.ceil(list.length / 9)
    const linkList = document.querySelector(".link-list")
 
