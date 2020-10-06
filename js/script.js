@@ -1,11 +1,5 @@
 "use strict";
 
-/**
- * Show page function - shows the selected page of students
- * @param {object} list - List of students to be paginated
- * @param {number} page - Page number to be shown
- */
-
 const alphaList = data.sort((a, b) => {
    const userA = a.name.toLowerCase();
    const userB = b.name.toLowerCase();
@@ -18,6 +12,12 @@ const alphaList = data.sort((a, b) => {
       return 0;
    }
 });
+
+/**
+ * Show page function - shows the selected page of students
+ * @param {object} list - List of students to be paginated
+ * @param {number} page - Page number to be shown
+ */
 
 function showPage(list, page) {
    const startIndex = (page * 9) - 9
