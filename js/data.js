@@ -9,6 +9,13 @@ const data = [
     'points': 26419
   },
   {
+    url: 'https://teamtreehouse.com/jonbascos',
+    name: 'Jon Bascos',
+    profile_name: 'jonbascos',
+    gravatar_url: "https://uploads.teamtreehouse.com/production/profile-photos/9498722/avatar_IMG_0125.jpg",
+    points: 11634
+  },
+  {
     url: 'https://teamtreehouse.com/thejuanandonly.json',
     name: 'Juan Lopez',
     profile_name: 'thejuanandonly',
