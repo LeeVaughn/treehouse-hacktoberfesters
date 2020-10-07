@@ -2,10 +2,10 @@
 
 const data = [
   {
-    url: "https://teamtreehouse.com/jelena",
-    name: "Jelena Feliciano",
-    profile_name: "jelena",
-    gravatar_url: "https://uploads.teamtreehouse.com/production/profile-photos/11540774/avatar_IMG_6973.jpg",
+    url: 'https://teamtreehouse.com/jelena.json',
+    name: 'Jelena Feliciano',
+    profile_name: 'jelena',
+    gravatar_url: 'https://uploads.teamtreehouse.com/production/profile-photos/11540774/avatar_IMG_6973.jpg',
     points: 4250
   },
   {
