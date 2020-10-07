@@ -9,11 +9,11 @@ const data = [
     points: 4250
   },
   {
-    'url': 'https://teamtreehouse.com/agatazurek.json',
-    'name': 'Agata Zurek',
-    'profile_name': 'agatazurek',
-    'gravatar_url': 'https://uploads.teamtreehouse.com/production/profile-photos/10813619/avatar_LegoAstronomer.jpg',
-    'points': 26419
+    url: 'https://teamtreehouse.com/agatazurek.json',
+    name: 'Agata Zurek',
+    profile_name: 'agatazurek',
+    gravatar_url: 'https://uploads.teamtreehouse.com/production/profile-photos/10813619/avatar_LegoAstronomer.jpg',
+    points: 26419
   },
   {
     url: 'https://teamtreehouse.com/jonbascos.json',
