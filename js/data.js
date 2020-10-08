@@ -44,7 +44,7 @@ const data = [
     points: 33766,
   },
   {
-    url: 'https://teamtreehouse.com/robertmanolis.json',
+    url: 'https://teamtreehouse.com/robertpm.json',
     name: 'Robert Manolis',
     profile_name: 'robertpm',
     gravatar_url: 'https://uploads.teamtreehouse.com/production/profile-photos/1167622/avatar_me.jpg',
