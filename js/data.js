@@ -2,6 +2,13 @@
 
 const data = [
   {
+    url: 'https://teamtreehouse.com/cooperhollmaier.json',
+    name: 'Cooper Hollmaier',
+    profile_name: 'cooperhollmaier',
+    gravatar_url: 'https://secure.gravatar.com/avatar/c29a3d66740b5b90c8e7ae4a70067534?s=400&d=https%3A%2F%2Fstatic.teamtreehouse.com%2Fassets%2Fcontent%2Fdefault_avatar-ea7cf6abde4eec089a4e03cc925d0e893e428b2b6971b12405a9b118c837eaa2.png&r=pg',
+    points: 5185
+  },
+  {
     url: 'https://teamtreehouse.com/jelena.json',
     name: 'Jelena Feliciano',
     profile_name: 'jelena',
