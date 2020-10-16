@@ -41,7 +41,7 @@ const data = [
     name: 'Juan Lopez',
     profile_name: 'thejuanandonly',
     gravatar_url: 'https://uploads.teamtreehouse.com/production/profile-photos/7876462/avatar_profile-pic.jpg',
-    points: 27986,
+    points: 27986
   },
   {
     url: 'https://teamtreehouse.com/laureneggers.json',
@@ -55,7 +55,7 @@ const data = [
     name: 'Lee Vaughn',
     profile_name: 'dlv',
     gravatar_url: 'https://uploads.teamtreehouse.com/production/profile-photos/9205552/avatar_lee.jpg',
-    points: 33766,
+    points: 33766
   },
   {
     url: 'https://teamtreehouse.com/robertpm.json',
