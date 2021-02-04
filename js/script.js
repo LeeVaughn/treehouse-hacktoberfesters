@@ -19,12 +19,12 @@ const alphaList = data.sort((a, b) => {
  * @param {number} page - Page number to be shown
  */
 function showPage(list, page) {
-   const startIndex = (page * 9) - 9
-   const endIndex = page * 9
-   const studentList = document.querySelector(".student-list")
+   const startIndex = (page * 9) - 9;
+   const endIndex = page * 9;
+   const studentList = document.querySelector(".student-list");
 
    // removes any previously displayed students
-   studentList.innerHTML = ""
+   studentList.innerHTML = "";
 
    for (let i = 0; i < list.length; i++) {
       if (i >= startIndex && i < endIndex) {
@@ -51,13 +51,13 @@ function showPage(list, page) {
  @param {object} list - List of students to be paginated
 */
 function addPagination(list) {
-   const numOfPages = Math.ceil(list.length / 9)
-   const linkList = document.querySelector(".link-list")
+   const numOfPages = Math.ceil(list.length / 9);
+   const linkList = document.querySelector(".link-list");
 
-   linkList.innerHTML = ""
+   linkList.innerHTML = "";
    
    for (let i = 1; i <= numOfPages; i++) {
-      const button = `<li><button type="button">${i}</button</li>`
+      const button = `<li><button type="button">${i}</button</li>`;
 
       linkList.insertAdjacentHTML("beforeend", button);
    }
@@ -67,9 +67,9 @@ function addPagination(list) {
    linkList.addEventListener("click", (e) => {
       if (e.target.tagName === "BUTTON") {
          document.querySelector(".active").className = "";
-         e.target.className = "active"
+         e.target.className = "active";
 
-         showPage(list, e.target.textContent)
+         showPage(list, e.target.textContent);
       }
    });
 }
