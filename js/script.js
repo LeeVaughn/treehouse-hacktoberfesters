@@ -1,5 +1,6 @@
 "use strict";
 
+// sorts student data alphabetically
 const alphaList = data.sort((a, b) => {
    const userA = a.name.toLowerCase();
    const userB = b.name.toLowerCase();
