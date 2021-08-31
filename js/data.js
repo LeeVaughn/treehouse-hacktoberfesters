@@ -2,6 +2,13 @@
 
 const data = [
   {
+    url: 'https://teamtreehouse.com/marieehrman.json',
+    name: 'Marie Ehrman',
+    profile_name: 'marieehrman',
+    gravatar_url: 'https://uploads.teamtreehouse.com/production/profile-photos/10735686/avatar_2018_Headshot.jpg',
+    points: 22011
+  },
+  {
     url: 'https://teamtreehouse.com/rohald89.json',
     name: 'Rohald van Merode',
     profile_name: 'rohald89',
